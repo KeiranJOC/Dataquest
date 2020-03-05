@@ -1,3 +1,3 @@
 # Dataquest
 
-A repository to store Dataquest guided projects.
+Guided projects - notebooks and datasets.
